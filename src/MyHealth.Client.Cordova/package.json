@@ -16,7 +16,7 @@
     "gulp-tslint": "~3.4.0",
     "gulp-util": "~3.0.6",
     "read-package-json": "~2.0.1",
-    "rimraf": "~2.4.3",
+    "rimraf": "~2.7.1",
     "xml2js": "~0.4.13"
   },
   "devDependencies": {
