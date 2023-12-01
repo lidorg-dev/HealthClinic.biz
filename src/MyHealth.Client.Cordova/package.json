@@ -11,12 +11,12 @@
     "gulp": "~3.9.0",
     "gulp-minify-css": "~1.2.1",
     "gulp-rename": "~1.2.2",
-    "gulp-sass": "~2.0.4",
+    "gulp-sass": "~5.0.0",
     "gulp-sourcemaps": "~1.6.0",
-    "gulp-tslint": "~3.4.0",
+    "gulp-tslint": "~4.0.0",
     "gulp-util": "~3.0.6",
-    "read-package-json": "~2.0.1",
-    "rimraf": "~2.4.3",
+    "read-package-json": "~6.0.1",
+    "rimraf": "~4.0.0",
     "xml2js": "~0.4.13"
   },
   "devDependencies": {
